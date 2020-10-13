@@ -1,0 +1,2 @@
+- ci/cd hazırlanacak
+- docker container için .dockerfile yazılacak.
