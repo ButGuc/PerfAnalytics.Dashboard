@@ -1,2 +1,0 @@
-- ci/cd hazırlanacak
-- api için reverse proxy ayarlanacak.
